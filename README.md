@@ -1,46 +1,54 @@
-# Getting Started with Create React App
+# Social Media App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Social Media App repository! This is a basic project built using TypeScript, featuring CRUD (Create, Read, Update, Delete) operations. Users can log in through Google authentication, view posts from other users, like them, and delete their posts.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Google Authentication**: Users can log in to the app securely using their Google accounts.
+- **View Posts**: Users can view posts shared by other users.
+- **Like Posts**: Users have the ability to like posts shared by other users.
+- **CRUD Operations**: Full CRUD functionality for managing user posts, including creating, reading, updating, and deleting posts.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **TypeScript**: Primary programming language used for development.
+- **CSS**: To give a basic design.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+To get started with the Social Media App, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone this repository to your local machine.
+2. Install any necessary dependencies using npm or yarn.
+3. Configure environment variables for Google authentication credentials.
+4. Run the application locally using `npm start` or `yarn start`.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once the app is running, users can:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Log in using their Google accounts.
+- View posts from other users on the main feed.
+- Like posts shared by other users.
+- Create new posts.
+- Delete their own posts.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing
 
-### `npm run eject`
+Contributions are welcome! If you'd like to contribute to the Social Media App, please follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Submit a pull request, detailing the changes you've made.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Contact
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+If you have any questions or suggestions regarding the Social Media App, feel free to reach out:
 
-## Learn More
+- **Email**: theanishgulati@gmail.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Happy coding!
